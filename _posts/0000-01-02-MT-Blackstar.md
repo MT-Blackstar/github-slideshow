@@ -5,7 +5,8 @@
 
 
 
-Info table
+
+Info | table
 -----|----------
 Race| Homosapine
 Home|Earth
