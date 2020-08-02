@@ -5,9 +5,9 @@
 
 
 
-
-Race| Homosapine
+Info table
 -----|----------
+Race| Homosapine
 Home|Earth
 System|solar system
 Galaxy|Milky way
